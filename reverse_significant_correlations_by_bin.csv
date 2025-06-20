@@ -1,0 +1,23 @@
+Region,Measure Type,Frequency (Hz),Direction,Min Value,Max Value,Correlation,P-Value,Column
+Frontal,Correlation,0.2,Positive,0.793673,0.971269,0.462166608,0.04634658,Frontal Correlation Frontal Correlation  0.2
+Frontal,Correlation,8.4,Positive,0.345663,0.406947,0.474125893,0.040281591,Frontal Correlation 8.4
+Frontal,Correlation,8.6,Positive,0.326332,0.394705,0.551794082,0.01431225,Frontal Correlation 8.6
+Frontal,Timeshift,0.2,Positive,0.0238235,0.280294,0.516789792,0.023474722,Frontal Timeshift 0.2
+Frontal,Timeshift,2.8,Negative,0.240588,0.326176,-0.680633234,0.001339156,Frontal Timeshift 2.8
+Frontal,Timeshift,3.4,Positive,0.233235,0.314706,0.641179843,0.003091482,Frontal Timeshift 3.4
+Frontal,Timeshift,9.6,Negative,0.16,0.300882,-0.46035596,0.047322499,Frontal Timeshift 9.6
+Posterior,Correlation,9.4,Positive,0.296063,0.391681,0.466697165,0.043972034,Posterior Correlation 9.4
+Posterior,Timeshift,8.8,Positive,0.23,0.339706,0.546743275,0.015420204,Posterior Timeshift 8.8
+Posterior,Timeshift,10.8,Positive,0.217941,0.341471,0.598363496,0.006801136,Posterior Timeshift 10.8
+Left,Correlation,0.2,Positive,0.780438,0.97003,0.463224021,0.045783803,Left Correlation 0.2
+Left,Correlation,6.2,Positive,0.353542,0.473017,0.459964797,0.047535376,Left Correlation 6.2
+Left,Correlation,8.6,Positive,0.330894,0.410691,0.494148027,0.031516064,Left Correlation 8.6
+Left,Correlation,9.8,Positive,0.311072,0.365059,0.4725281,0.04105446,Left Correlation 9.8
+Left,Timeshift,3.6,Negative,0.214412,0.295882,-0.501434129,0.028724439,Left Timeshift 3.6
+Right,Correlation,8.2,Positive,0.352472,0.410134,0.578845495,0.009411571,Right Correlation 8.2
+Right,Correlation,8.4,Positive,0.328201,0.419386,0.507389717,0.026589391,Right Correlation 8.4
+Right,Correlation,8.6,Positive,0.324014,0.389838,0.476876418,0.038977418,Right Correlation 8.6
+Right,Correlation,10,Positive,0.287728,0.350642,0.505605246,0.027215613,Right Correlation 10
+Right,Timeshift,2.8,Negative,0.203529,0.339118,-0.623138238,0.004368952,Right Timeshift 2.8
+Right,Timeshift,10.6,Positive,0.221176,0.299706,0.519202977,0.022723466,Right Timeshift 10.6
+Right,Timeshift,10.8,Positive,0.191176,0.285294,0.52319128,0.021523527,Right Timeshift 10.8

@@ -1,0 +1,19 @@
+Region,Measure Type,Frequency (Hz),Direction,Min Value,Max Value,Correlation,P-Value,Column
+Frontal,Correlation,9.4,Negative,0.300542,0.378096,-0.49888213,0.029679305,Frontal Correlation 9.4
+Left,Correlation,0.4,Positive,0.680991,0.811337,0.599995909,0.006612784,Left Correlation 0.4
+Right,Correlation,1.2,Negative,0.576888,0.682329,-0.645215948,0.002852873,Right Correlation 1.2
+Posterior,Correlation,0.4,Positive,0.668328,0.800797,0.512277893,0.024931701,Posterior Correlation 0.4
+Posterior,Correlation,5.2,Negative,0.387223,0.509553,-0.473293752,0.040682697,Posterior Correlation 5.2
+Right,Correlation,0.4,Positive,0.670707,0.839799,0.632896848,0.003632999,Right Correlation 0.4
+Right,Timeshift,0.6,Negative,0.162,0.274286,-0.61499283,0.005073257,Right Timeshift 0.6
+Left,Timeshift,7.4,Negative,0.208857,0.317429,-0.461116731,0.04691056,Left Timeshift 7.4
+Left,Timeshift,6,Positive,0.160286,0.315429,0.509341338,0.0259175,Left Timeshift 6
+Left,Timeshift,5.8,Positive,0.224857,0.278571,0.460071285,0.047477351,Left Timeshift 5.8
+Posterior,Timeshift,11.4,Negative,0.215714,0.313429,-0.47311596,0.040768792,Posterior Timeshift 11.4
+Frontal,Timeshift,5.6,Positive,0.196857,0.295429,0.475149523,0.039792368,Frontal Timeshift 5.6
+Posterior,Timeshift,5.2,Negative,0.184571,0.328,-0.470872991,0.041867025,Posterior Timeshift 5.2
+Posterior,Timeshift,1.4,Negative,0.221143,0.340286,-0.504865381,0.027478614,Posterior Timeshift 1.4
+Posterior,Timeshift,0.6,Negative,0.126,0.286,-0.475201752,0.039767529,Posterior Timeshift 0.6
+Frontal,Timeshift,7.4,Negative,0.202857,0.310571,-0.463454681,0.045661739,Frontal Timeshift 7.4
+Frontal,Timeshift,7,Negative,0.198,0.319714,-0.518566495,0.022919745,Frontal Timeshift 7
+Right,Timeshift,10,Positive,0.216286,0.313429,0.51878866,0.022851082,Right Timeshift 10
